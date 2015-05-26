@@ -10,6 +10,8 @@ GEM
     aws-sdk-resources (2.0.45)
       aws-sdk-core (= 2.0.45)
     builder (3.2.2)
+    haml (4.0.4)
+      tilt
     jmespath (1.0.2)
       multi_json (~> 1.0)
     multi_json (1.11.0)
@@ -27,4 +29,5 @@ PLATFORMS
 
 DEPENDENCIES
   aws-sdk
+  haml
   sinatra
