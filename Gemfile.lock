@@ -31,3 +31,6 @@ DEPENDENCIES
   aws-sdk
   haml
   sinatra
+
+BUNDLED WITH
+   1.10.0
